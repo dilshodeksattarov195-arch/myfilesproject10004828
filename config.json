@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvalidate",
+        "uuid": 42167752,
+        "checksum": "p7zl3"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
